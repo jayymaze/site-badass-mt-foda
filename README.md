@@ -1,6 +1,7 @@
 <h1>Site pauleira</h1>
 
-<p> > Status: em desenvolvimento </p> 
+> Status: em desenvolvimento \n
+> ideias? melhores tweets da choquei
 
 ```
 1. back-end com python
