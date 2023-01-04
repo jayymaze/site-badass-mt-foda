@@ -1,6 +1,6 @@
 <h1>Site pauleira</h1>
 
-> Status: em desenvolvimento \n
+> Status: em desenvolvimento <br>
 > ideias? melhores tweets da choquei
 
 ```
