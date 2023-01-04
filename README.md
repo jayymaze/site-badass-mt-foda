@@ -1,7 +1,6 @@
 <h1>Site pauleira</h1>
 
-> Status: em desenvolvimento
-> ideias? nenhuma
+<p> > Status: em desenvolvimento </p> 
 
 ```
 1. back-end com python
